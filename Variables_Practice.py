@@ -1,0 +1,23 @@
+# JA, Variables Practice
+
+name = input("Tell me your name: ")
+number1 = input("Pick a number between 1 and 10: ")
+number2 = input("Pick a number between 100 and 1000: ")
+food = input("What did you eat for breakfast: ")
+colour = input("What is your favorite colour: ")
+school = input("What is the name of your school: ")
+year = input("What is the year: ")
+eye = input("What is your eye colour: ")
+age = input("How old are you: ")
+subject = input("What is your favorite subject in school: ")
+
+print(name)
+print(number1)
+print(number2)
+print(food)
+print(colour)
+print(school)
+print(year)
+print(eye)
+print(age)
+print(subject)
