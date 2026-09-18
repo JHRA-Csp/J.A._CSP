@@ -41,3 +41,5 @@ print(f"Your monthly Rent/Morgage is ${rent:.2f}and the percentage of your incom
 print(f"Your monthly utilities price is ${Utilities:.2f}and the percentage of your income is {int(Utilities/income*100)}%")
 print(f"Your monthly groceries price is ${Groceries:.2f}and the percentage of your income is {int(Groceries/income*100)}%")
 print(f"Your monthly transportation price is ${transportation:.2f} and the percentage of your income is {int(transportation/income*100)}%")
+print(f"You should save $300.00 a month, that is 10% of your income")
+print(f"You have $ 550.00 of spending money each month")
