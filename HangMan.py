@@ -1,2 +1,0 @@
-# JA, CSP hangman activty
-
